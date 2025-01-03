@@ -72,7 +72,7 @@ This project introduces a **multi-modal image retrieval system** designed to per
 *Process of CLIP.*
 
 ## Video
-![Demo](Image-Retrieval-Demo.mov)
+![Demo](Image-Retrieval-Demo.gif)
 *Performing a search using a textual description or image*
 
 ---
