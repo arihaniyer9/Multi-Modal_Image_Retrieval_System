@@ -66,13 +66,13 @@ This project introduces a **multi-modal image retrieval system** designed to per
    ```
 
 ---
-## Video
+## Architecture
 ![Architecture](CLIP-Process.png)
 ![Architecture](CLIP-Architecture.png)
 *Process of CLIP.*
 
 ## Video
-![Text Query Interface](Image-Retrieval-Demo.mov)
+![Demo](Image-Retrieval-Demo.mov)
 *Performing a search using a textual description or image*
 
 ---
